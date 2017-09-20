@@ -3,3 +3,7 @@
 I made this program to automate the conversion of CSGO to PUBG sensitivity. 
 There is an online conversion tool, but it takes a while to open up the config file and copy+paste the values into it since PUBG made their config file so messy. 
 Credits to 'True Gent' for providing the formulas.
+
+--
+Link to release/download page:
+https://github.com/schokkya/PUBG-Sensitivity-Converter/releases
