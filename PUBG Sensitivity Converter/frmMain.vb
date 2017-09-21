@@ -116,6 +116,10 @@
         End If
     End Sub
 
+    Private Sub ExitToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ExitToolStripMenuItem.Click
+        Application.Exit()
+    End Sub
+
     Private Sub btnBackup_Click(sender As Object, e As EventArgs) Handles btnBackup.Click
         Dim DateToday As String = String.Format("{0:dd.MM.yyyy - HH.mm}", DateTime.Now)
         backupdate = String.Format("{0:dd.MM.yyyy - HH.mm}", DateTime.Now)
