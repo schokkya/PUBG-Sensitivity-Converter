@@ -18,7 +18,7 @@ Features:
   
 Requirements:  
 * PUBG game installed and having an existing config with already present values for sensitivity  
-* .NET Framework 4.0 or higher (nowadays everyone should have this on their computer)  
+* .NET Framework 4.5 or higher (nowadays everyone should have this on their computer)  
   
 Instructions:  
 1) Make sure the game is not running!!
