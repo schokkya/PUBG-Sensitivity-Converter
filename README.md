@@ -21,12 +21,13 @@ Requirements:
 * .NET Framework 4.5 or higher (nowadays everyone should have this on their computer)  
   
 Instructions:  
-1) Make sure the game is not running!!
-2) Make sure the location of the 'GameUserSettings.ini' config file is correct, if not then manually change it. 
-3) Enter your CSGO sensitivity in the textbox, set the FOV slider to your in-game FOV setting and you should see the rest of the textboxes     changing.
-4) You can either go to the path of your config to copy and paste the calculated values yourself now. 
+1) Make sure you've already had your sensitivities changed in-game at least once so the variable in the config will be there.
+2) Make sure the game is not running!!
+3) Make sure the location of the 'GameUserSettings.ini' config file is correct, if not then manually change it. 
+4) Enter your CSGO sensitivity in the textbox, set the FOV slider to your in-game FOV setting and you should see the rest of the textboxes     changing.
+5) You can either go to the path of your config to copy and paste the calculated values yourself now. 
     Or you could just press the 'Automatically apply changes to my config' button and the program will set the values for you.
-5) Start the game and don't change the sliders in-game or you will have to do this process again. 
+6) Start the game and don't change the sliders in-game or you will have to do this process again. 
     Any changes to the controls you make will overwrite the changes made by this program or yourself if done manually.
     
   It doesn't change the sliders in controls menu, but you will notice in-game that the sensitivity has changed!
